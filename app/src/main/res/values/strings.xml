@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Globe Today</string>
+    <string name="toolbar_1">Headlines</string>
+    <string name="toolbar_2">Entertainment</string>
+    <string name="toolbar_3">Technology</string>
+    <string name="toolbar_4">Sports</string>
+    <string name="toolbar_5">Science</string>
+    <string name="toolbar_6">Health</string>
+</resources>
